@@ -6,7 +6,6 @@ import (
     "net/http"
     "os"
     "strings"
-	"fmt"
 )
 
 var spotifyToken string
