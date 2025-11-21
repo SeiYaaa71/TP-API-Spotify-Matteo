@@ -7,7 +7,7 @@ Ce programme est conçu pour faciliter la gestion et le suivi du projet API. Il 
 
 1. **Cloner le dépôt :**
     ```bash
-    git clone https://github.com/votre-utilisateur/projet-red_Fish-n-chips.git
+    git clone https://github.com/SeiYaaa71/TP-API-Spotify.git
     ```
 2. **Accéder au dossier :**
     ```bash
