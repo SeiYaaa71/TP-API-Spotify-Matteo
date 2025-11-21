@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.album-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+}
+
+.album-card, .track-card {
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 12px;
+    width: 250px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+
+.cover {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.spotify-btn {
+    display: inline-block;
+    background: #1DB954;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    text-decoration: none;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.spotify-btn:hover {
+    background: #18a148;
+}

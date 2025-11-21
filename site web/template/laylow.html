@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>{{.Title}}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<h1>{{.Title}}</h1>
+
+<div class="track-card">
+    <img src="{{.AlbumCover}}" class="cover">
+
+    <h2>Album : {{.AlbumName}}</h2>
+    <h3>Artiste : {{.Artist}}</h3>
+    <p>Date de sortie : {{.ReleaseDate}}</p>
+
+    <a class="spotify-btn" href="{{.SpotifyURL}}" target="_blank">Écouter sur Spotify</a>
+</div>
+
+</body>
+</html>

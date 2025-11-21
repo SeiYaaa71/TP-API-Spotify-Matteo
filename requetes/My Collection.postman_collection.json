@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "4ba1ad30-3785-4bb5-996d-dada5ee03cd2",
+		"name": "My Collection",
+		"description": "### Welcome to Postman! This is your first collection. \n\nCollections are your starting point for building and testing APIs. You can use this one to:\n\n• Group related requests\n• Test your API in real-world scenarios\n• Document and share your requests\n\nUpdate the name and overview whenever you’re ready to make it yours.\n\n[Learn more about Postman Collections.](https://learning.postman.com/docs/collections/collections-overview/)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50122751",
+		"_collection_link": "https://seiyaaa71-9731382.postman.co/workspace/Matt%C3%A9o's-Workspace~f6a74c58-42a3-4f91-82c7-ca35e7d0b547/collection/50122751-4ba1ad30-3785-4bb5-996d-dada5ee03cd2?action=share&source=collection_link&creator=50122751"
+	},
+	"item": [
+		{
+			"name": "Damso",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Access Token",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
