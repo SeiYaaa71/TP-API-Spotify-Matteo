@@ -16,6 +16,8 @@ Ce programme est conçu pour faciliter la gestion et le suivi du projet API. Il 
     ```
 ## Utilisation
     ``` bash
+    export SPOTIFY_CLIENT_ID="05db7a3ebb714267be979ac368f9386d"                                                                                                             
+    export SPOTIFY_CLIENT_SECRET="06aede08275f4cdca540a44d443bab0d"
     go run .
     ```
 
